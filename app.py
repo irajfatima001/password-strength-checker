@@ -13,8 +13,9 @@ st.markdown(
         font-family: Arial, sans-serif;
     }
     .big-title {
-        font-size: 36px;
+        font-size: 50px;
         font-weight: bold;
+        
         color: #FFD700;
         text-align: center;
     }
