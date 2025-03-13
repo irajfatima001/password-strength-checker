@@ -56,7 +56,7 @@ st.markdown(
 )
 
 # 🎯 Page Title
-st.markdown('<p class="big-title">🔒 Password Strength Checker & Generator 🔑</p>', unsafe_allow_html=True)
+st.markdown('<p class="big-title">🔒 Password Strength Meter </p>', unsafe_allow_html=True)
 
 # 📌 Function to Check Password Strength
 def check_password_strength(password):
